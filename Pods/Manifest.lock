@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.2.1)
+  - FloatRatingView (4.0)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ProgressHUD (13.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - FloatRatingView
+  - Kingfisher
+  - Moya
+  - ProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FloatRatingView
+    - Kingfisher
+    - Moya
+    - ProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  FloatRatingView: bb6bdddfbeec51b1d387b4bd50abc27b4dfccd48
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ProgressHUD: 137a7fc677487c5581668f4490563124fb35c232
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a3bf6abe478253bf7bce56e7c71bda022432a613
+
+COCOAPODS: 1.9.3
